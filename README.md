@@ -10,6 +10,11 @@
 ![硬件训练](http://ooiaw5slt.bkt.clouddn.com/硬件训练.png)
 ![逻辑框图](http://ooiaw5slt.bkt.clouddn.com/逻辑框图.png)
 
+## 树莓派相关代码介绍
+* test文件下
+	* DTH11.py有温湿度数据获取与上传服务器
+	* 其余为自动浇水和控制浇水系统的相关代码
+* people.py photo.py script.sh为人脸识别相关代码
 
 ## 服务器环境
 * Aliyun ECS CentOS
